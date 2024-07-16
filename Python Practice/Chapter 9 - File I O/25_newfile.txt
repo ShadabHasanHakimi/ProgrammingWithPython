@@ -1,0 +1,1 @@
+You can write into a file using this method!
